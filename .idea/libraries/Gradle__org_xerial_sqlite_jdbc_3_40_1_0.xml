@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.xerial:sqlite-jdbc:3.40.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.40.1.0/4e77207cd5a1c3ee00e287b7792683463dc50570/sqlite-jdbc-3.40.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.40.1.0/c9f71403d5fe66600640ff5ca7357edee058e958/sqlite-jdbc-3.40.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
